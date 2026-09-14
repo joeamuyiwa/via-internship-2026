@@ -1,0 +1,27 @@
+===== Log Analysis Summary =====
+
+--- Total lines ---
+52
+
+--- Count per log level ---
+     31 INFO
+     11 ERROR
+     10 WARN
+
+--- Top 3 IPs ---
+     17 192.168.1.10
+      8 192.168.1.11
+      6 192.168.1.12
+
+--- All ERROR lines ---
+2026-09-11 10:00:14 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:00:30 ERROR 192.168.1.14 Authentication failed
+2026-09-11 10:00:50 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:01:15 ERROR 192.168.1.18 Authentication failed
+2026-09-11 10:01:40 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:02:05 ERROR 192.168.1.21 Authentication failed
+2026-09-11 10:02:30 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:02:55 ERROR 192.168.1.25 Authentication failed
+2026-09-11 10:03:20 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:03:40 ERROR 192.168.1.12 Database connection failed
+2026-09-11 10:04:05 ERROR 192.168.1.29 Authentication failed
